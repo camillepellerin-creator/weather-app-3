@@ -55,3 +55,6 @@ img {
   position: relative;
   top: -30px;
 }
+small {
+  margin: 50px;
+}
